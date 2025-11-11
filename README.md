@@ -74,7 +74,7 @@ Includes EDA, data preprocessing, Linear & Polynomial Regression, and Regulariza
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/dishasharma](https://linkedin.com/in/dishasharma) 
+- 💼 **LinkedIn:** [linkedin.com/in/sharma-disha](https://www.linkedin.com/in/sharma-disha/)
 - 🧠 **GitHub:** [github.com/dsharma-tech](https://github.com/dsharma-tech)  
 - 🌐 **Portfolio:** [portfolio-blond-six-35.vercel.app](https://portfolio-blond-six-35.vercel.app/)  
 - 📧 **Email:** dishasharma1046@gmail.com  
